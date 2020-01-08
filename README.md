@@ -1,5 +1,8 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+Blabla
+Blublublu
+
 # Ironhack Data Analytics Labs
 
 ## Working on the Assignments
