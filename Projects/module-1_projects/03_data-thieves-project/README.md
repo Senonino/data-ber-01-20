@@ -9,7 +9,6 @@
 - [Requirements & Deliverables](#requirements-&-deliverables)
 - [Mentoring](#mentoring)
 - [Schedule](#schedule)
-- [JSON Structure](#json-structure)
 - [Presentation](#presentation)
 - [Tips & Tricks](#tips-&-tricks)
 - [Resources](#resources)
@@ -24,14 +23,14 @@ During this project you will:
 * Learn how to integrate plots into your presentations.
 
 ## Data Workflow
-In this project you will focus on Data Extraction techniques, while continue developing your Data Wrangling skills.
+In this project you will focus on Data Extraction techniques, while you continue developing your Data Wrangling skills.
 
 ## Requirements & Deliverables
 The **mandatory** requirements that this project needs to satisfy are:
 * The project must be planned. That is why creating a Kanban board is important. You can find a template for Trello [here](https://trello.com/b/26Wr3pVF/project-3-data-thief). Remember that you **CAN'T CODE** until your project is planned.
-* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure..
+* Your repository must be clean and organized; this means that it must include a *.gitignore* file and a README file and also have a functional file structure.
 * Your project must include data from at least 2 different data sources (APIs & web, dataset & APIs, etc.).
-* The project needs to be presented to your colleagues on the day of the presentation.
+* The project needs to be presented within 5 minutes to your colleagues on the day of the presentation.
 
 The **deadline** to turn in the deliverables is right before the project presentations.
 
@@ -66,7 +65,7 @@ Your mentors are **not** meant to:
 
 **Step 3**
 * **CHECKPOINT:** Database validation with the Lead Teacher and TAs **at 4PM**.
-* Start working on your analysis and plots. Think about which plots will help with your analysis and design the structure of your paper.  Start working on your presentation.
+* Start working on your analysis and plots. Think about which plots will help with your analysis and design the structure of your presentation.  Start working on your presentation.
 
 **Step 4**
 * Complete your analysis and presentation.
@@ -88,7 +87,6 @@ The structure should be:
 * **An output folder**
 * **A ``READ.md`` file**
 
-You can find some paper examples in the ```Resources``` section.
 
 ## Presentation
 The presentation time limit is **5 minutes**! Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
