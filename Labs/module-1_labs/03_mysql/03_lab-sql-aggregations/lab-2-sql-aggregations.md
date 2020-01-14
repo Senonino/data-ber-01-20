@@ -2,6 +2,9 @@
 
 # Lab | SQL - Aggregation
 
+## Database to USE
+`bank` database
+
 ## Introduction
 
 In this lab, we are adding the `GROUP BY` clause and aggregations to our SQL vocabulary.
