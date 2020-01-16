@@ -85,7 +85,8 @@ The structure should be:
 5. Insights derived from your analysis.
 6. Possible further questions and improvements.
 * **An output folder**
-* **A ``READ.md`` file**
+* **A ``README.md`` file**  
+Look [here](https://www.makeareadme.com/) for tips on how to structure a README.md file.
 
 
 ## Presentation
