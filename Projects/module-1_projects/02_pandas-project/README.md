@@ -27,7 +27,7 @@ The following deliverables should be pushed to your Github repo for this chapter
 
 * **A cleaned CSV data file** containing the results of your data wrangling work.
 * **A Jupyter Notebook (data-wrangling.ipynb)** containing all Python code and commands used in the importing, cleaning, manipulation, and exporting of your data set.
-* **A ``README.md`` file** containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of your data as well as your results, obstacles encountered, and lessons learned.
+* **A ``README.md`` file** containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of your data as well as your results, obstacles encountered, and lessons learned.  Look [here](https://www.makeareadme.com/) for tips on how to structure a README.md file.
 
 ## Suggested Ways to Get Started
 
