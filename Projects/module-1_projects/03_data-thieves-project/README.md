@@ -14,7 +14,7 @@
 - [Resources](#resources)
 
 ## Project Description  
-For this project you will have the option to work individually or in a **team**. You will have to choose a topic and find all the relevant data yourselves. This means you can connect to an API, find a dataset or scrape data from the web. Then you must organize, clean and analyze the data you found and present your findings in a presentation (you may use plots!) and a paper.  
+For this project you will have the option to work individually or in a **team**. You will have to choose a topic and find all the relevant data yourselves. This means you can connect to an API, find a dataset or scrape data from the web. Then you must organize, clean and analyze the data you found and present your findings in a presentation (you may use plots!).  
 
 ## Project Goals
 During this project you will:
@@ -32,7 +32,7 @@ The **mandatory** requirements that this project needs to satisfy are:
 * Your project must include data from at least 2 different data sources (APIs & web, dataset & APIs, etc.).
 * The project needs to be presented within 5 minutes to your colleagues on the day of the presentation.
 
-The **deadline** to turn in the deliverables is right before the project presentations.
+The **deadline** to turn in the deliverables is Sunday, January 26th at 23:59.
 
 ## Mentoring
 The TAs will be your mentors!
