@@ -64,14 +64,14 @@ Your mentors are **not** meant to:
 * Design your database.
 
 **Step 3**
-* **CHECKPOINT:** Database validation with the Lead Teacher and TAs **at 4PM**.
+* **CHECKPOINT:** Database validation with the Lead Teacher and TAs.
 * Start working on your analysis and plots. Think about which plots will help with your analysis and design the structure of your presentation.  Start working on your presentation.
 
 **Step 4**
 * Complete your analysis and presentation.
 
 **Step 5**
-* Presentation time at **2 PM**! There will be a 15-minute break during the presentations!
+* Presentation time at **2 PM** on Friday! There will be a 10-minute break during the presentations!
 
 ## Necessary Deliverables
 The following deliverables should be pushed to your Github repo for this chapter.
