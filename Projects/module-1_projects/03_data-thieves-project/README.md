@@ -71,7 +71,7 @@ Your mentors are **not** meant to:
 * Complete your analysis and presentation.
 
 **Step 5**
-* Presentation time at **2 PM** on Friday! There will be a 10-minute break during the presentations!
+* Presentation time at **9 AM** on Monday! There will be a 10-minute break during the presentations!
 
 ## Necessary Deliverables
 The following deliverables should be pushed to your Github repo for this chapter.
