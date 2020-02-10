@@ -17,8 +17,8 @@ Use the techniques you've learned about storytelling to effectively present (max
 The technical requirements for this project are as follows:
 
  - Select a dataset from a public source.
- - Create a Jupyter noteboosk to analyze the data
- - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
+ - Create a Jupyter notebook to analyze the data
+ - Using your data, create a minimum of 4 types of plots (ie: scatter plot, histogram, box plot and bar graph), but you can add more than one visualization of each type of you choose. Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
  - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
 
 ## Necessary Deliverables
