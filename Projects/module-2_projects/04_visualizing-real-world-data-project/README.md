@@ -6,7 +6,9 @@
 
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+**You will be working in teams for this project**, but we'll be guiding you along the process and helping you as you go.
+
+Use the techniques you've learned about storytelling to effectively present (maximum 5 minutes) your findings.
 
 ---
 
