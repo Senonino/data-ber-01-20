@@ -11,7 +11,7 @@
 * [Phase 1](#Phase-1)
 * [Phase 2](#Phase-2)
 * [Phase 3](#Phase-3)
-* [Phase 4](#Phase-4)
+* [Phase 4](#Phase-4) (OPTIONAL)
 
 **[Necessary Deliverables](#necessary-deliverables)**
 
@@ -71,7 +71,7 @@ Analysis:
 * Come up with compelling stories
 
 
-### Phase 4 - Data Analysis More Iterations
+### Phase 4 - Data Analysis More Iterations (OPTIONAL)
 
 ML:
 
@@ -209,7 +209,7 @@ If you're not working on a machine learning problem, identify the meaningful ins
 
 Once you reach this point, ask fellow students, friends or teaching staff for feedback and ideas to dig deeper.
 
-### Phase 4
+### Phase 4 (OPTIONAL)
 
 At this point, you should have a clear idea of where you want to go. You should spend the remaining days refining your machine learning models and your presentation. Spend some time to get a deeper understanding of the algorithms or statistical methods you are using and how your work could be improved. Think about how you can best present your project to a wide audience so that they take away what the essence of your project is.
 
