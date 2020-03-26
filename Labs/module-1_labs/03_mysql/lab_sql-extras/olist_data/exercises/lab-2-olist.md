@@ -111,7 +111,7 @@ Solution:
 ```sql
 SELECT
     product_category_name,
-    product_length_cm + product_height_cm + product_width_cm AS 'total_dimensions'
+    product_length_cm + product_height_cm + product_width_cm AS total_dimensions
 FROM olist.products
 GROUP BY
     product_category_name,
